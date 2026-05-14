@@ -5,9 +5,7 @@
 (function () {
   "use strict";
 
-  var GREETING =
-    "Chào bạn, mình bên Thuận Thiên. Cho mình hỏi một câu thôi: bạn đang kẹt một quyết định gần (3–12 tháng), hay đang muốn nhìn cả quỹ đạo nghề — tiền — hôn nhân dài hơn?\n\n" +
-    "Không cần tin \"huyền học\" trước — mình đọc tin nhắn của bạn rồi chỉ **một** hướng phù hợp nhất (quẻ / sách + bát tự / LUCK / số điện thoại / chọn ngày giờ…), khỏi rối và khỏi đốt tiền sai chỗ.";
+  var GREETING = "Chào bạn, mình là trợ lý của Thuận Thiên, bạn đang quan tâm điều gì nhỉ?";
 
   var SOFT_CLARIFY =
     "Mình có thể hiểu tin nhắn theo vài hướng khác nhau. Bạn chốt giúp **một ý** đang cần nhất ngay bây giờ: kẹt **một quyết định gần**, hay lo **tiền — nghề dài hơi**, hay chuyện **số điện thoại / ngày giờ / form**? Nhắn lại **một dòng** — mình trả **một** hướng thôi.";
@@ -306,7 +304,7 @@
       '<button type="button" class="tt-chat-close" aria-label="Đóng chat">×</button></div>' +
       '<div class="tt-chat-messages" id="tt-chat-messages"></div>' +
       '<div class="tt-chat-input-row">' +
-      '<textarea class="tt-chat-input" id="tt-chat-input" rows="1" placeholder="Nhắn thoải mái — không cần đúng từ khóa…" maxlength="800"></textarea>' +
+      '<textarea class="tt-chat-input" id="tt-chat-input" rows="3" placeholder="Nhắn tin ở đây…" maxlength="800"></textarea>' +
       '<button type="button" class="tt-chat-send" id="tt-chat-send" aria-label="Gửi">➤</button>' +
       "</div></div>";
 
