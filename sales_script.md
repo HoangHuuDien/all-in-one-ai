@@ -36,11 +36,11 @@
 
 ## 2. Top 10 câu hỏi hay gặp + câu trả lời chatbot
 
-*(Căn cứ `data/faq/cau-hoi-thuong-gap.md` — viết lại văn nói; chỗ bát tự đã **đồng bộ** với `data/products/02-bat-tu-tu-van.md`: Zoom tạm dừng, lộ chính qua **mua sách**.)*
+*(Heading `## 1.` … `## 10.` trong `data/faq/cau-hoi-thuong-gap.md` khớp tiêu đề các mục dưới; FAQ giữ bản ngắn, mục này giữ bản chatbot dài. Bát tự **đồng bộ** `data/products/02-bat-tu-tu-van.md`: Zoom tạm dừng, lộ chính qua **mua sách**.)*
 
 ---
 
-### 1) “Chỉ cho năm sinh / tuổi thì xem được không?”
+### 1. Chỉ cho mình năm sinh / tuổi thì xem được không?
 
 **Trả lời gợi ý:**  
 Chưa đủ đâu bạn — **bát tự** cần **đủ năm tháng ngày giờ sinh** (và câu hỏi rõ + bối cảnh) thì mới nói chuyện “dài hơi” về nghề — tiền — hôn nhân cho khỏi… đoán mò.  
@@ -51,7 +51,7 @@ Còn nếu bạn chỉ có **một quyết định đang treo** (làm hay không
 
 ---
 
-### 2) “800k đã gồm hết chưa, có phụ phí sau buổi xem không?”
+### 2. 800k đã gồm hết chưa, có phụ phí sau buổi xem không?
 
 **Trả lời gợi ý:**  
 Một mức một việc — **không** kiểu xem xong rồi gài mua đồ hay làm lễ; đó là **cam kết công khai** bên mình.  
@@ -62,7 +62,7 @@ Nên câu hỏi “800k có gồm hết không” — trả lời thẳng: **kh�
 
 ---
 
-### 3) “Xem xong có bị dọa phải làm thêm gì không?”
+### 3. Xem xong có bị “dọa” phải làm thêm gì không?
 
 **Trả lời gợi ý:**  
 Mình hiểu — nhiều người bị “xem xong tốn thêm một mớ” ở chỗ khác. Bên Thuận Thiên **không** dọa để bán phong thủy / lễ / bùa; nội dung **dừng đúng** phần đã thỏa thuận.  
@@ -72,7 +72,7 @@ Nếu bạn cần **đọc thêm** để tỉnh táo, trên web có tài liệu 
 
 ---
 
-### 4) “Bát tự khác tử vi / quẻ chỗ nào?”
+### 4. Bát tự khác tử vi / quẻ chỗ nào?
 
 **Trả lời gợi ý:**  
 Vẫn cần **giờ sinh** thì tử vi hay bát tự đều “bắt sóng” được — nhưng **cách đọc** khác. Bên mình, **bát tự** nhìn **đại vận**, nghề — tiền — hôn nhân theo **giai đoạn**.  
@@ -83,7 +83,7 @@ Tóm lại: **sợ chọn sai một nhát** → quẻ; **sợ đi sai cả một
 
 ---
 
-### 5) “Xem bát tự có phải mê tín không?”
+### 5. Xem bát tự có phải mê tín không?
 
 **Trả lời gợi ý:**  
 Mình không tranh luận “tin hay không tin”. Góc thực dụng: bát tự / quẻ ở đây được dùng như **kính chiếu xu hướng & thời điểm** — để bớt quyết định nóng, bớt thử sai tốn kém.  
@@ -93,7 +93,7 @@ Không thay bác sĩ, không thay luật sư, không thay trị liệu — mình
 
 ---
 
-### 6) “Bao lâu thì có lịch?”
+### 6. Bao lâu thì có lịch?
 
 **Trả lời gợi ý:**  
 Tùy món: **quẻ** thường **1–3 ngày** sau khi đủ bước (gieo + CK + Cát Tường xếp lịch). **Sách + video lá số** thì Cát Tường hay báo **1–3 ngày** xác nhận, video lá số khoảng **~2 tuần** kể từ khi đủ CK + form (theo trang sách).  
@@ -103,7 +103,7 @@ Mình không hứa “sáng mai có liền” cho sướng miệng — **đúng 
 
 ---
 
-### 7) “Cuối tuần / Chủ nhật có xem được không?”
+### 7. Cuối tuần / Chủ nhật có xem được không?
 
 **Trả lời gợi ý:**  
 Lịch làm việc kiểu **chiều T2–T7**. Nếu bạn **chỉ rảnh Chủ nhật** — **ghi rõ trong form / nhắn Cát Tường** để khỏi hẹn trật.  
@@ -113,7 +113,7 @@ Quẻ / sách chủ yếu là **tin nhắn + video** — ít “chờ slot buổ
 
 ---
 
-### 8) “Mình không phù hợp thì có bị nhận không?”
+### 8. Mình không phù hợp thì có bị nhận không?
 
 **Trả lời gợi ý:**  
 Bên mình **có thể từ chối** case không fit — không phải khó bạn, mà để **khỏi phí tiền & phí cảm xúc** hai bên.  
@@ -123,7 +123,7 @@ Nếu bạn lo “bị phán” — yên tâm: **từ chối** là chuyện **th
 
 ---
 
-### 9) “Xem rồi có đổi vận được không?”
+### 9. Xem rồi có “đổi vận” được không?
 
 **Trả lời gợi ý:**  
 Mình không bán “đổi vận” bằng lễ. Thực tế hay gặp: **quẻ tài** khó lật ngược hết, nhưng **giảm thiệt hại** được — kiểu tháng dễ hao tiền thì **không all-in**, siết quy tắc chi tiêu.  
@@ -133,7 +133,7 @@ Còn **đổi đời tiền bạc** theo hướng “tự quyết ít phụ thu�
 
 ---
 
-### 10) “Form Zalo / landing khác form bát tự trên trang chính?”
+### 10. Landing / form Zalo trên web khác với form bát tự trên trang chính?
 
 **Trả lời gợi ý:**  
 Đúng — **đừng nhầm đường**. **Bát tự + sách** đi theo **form Google** trên trang sách / battu (đúng link Cát Tường gửi). **Quẻ** đi theo [kinhdich.thuanthienkinhdich.com](https://kinhdich.thuanthienkinhdich.com/) + [gieoque](https://kinhdich.thuanthienkinhdich.com/gieoque). **LUCK** CK + nhắn Cát Tường theo [luck](https://www.thuanthienkinhdich.com/luck).  

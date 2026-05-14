@@ -1,7 +1,7 @@
 # Sản phẩm 2 — Xem lá số bát tự (tư vấn)
 
 **Nguồn chính thức:** [Xem Bát Tự — Thuận Thiên](https://www.thuanthienkinhdich.com/battu)  
-**Trạng thái:** đồng bộ theo trang trên; khi web đổi chính sách — cập nhật lại file và **đồng bộ** script bán hàng nội bộ (ví dụ `sales_scripts.md` vẫn đang mô tả Zoom + 800k — có thể đã lệch thời điểm).
+**Trạng thái:** đồng bộ theo trang trên; khi web đổi chính sách — cập nhật lại file và **đồng bộ** `sales_script.md` (§2 + FAQ `data/faq/cau-hoi-thuong-gap.md`), widget `my-first-web/chat-widget.js`, và gói mẫu `sales_scripts.md` nếu còn dùng.
 
 ---
 

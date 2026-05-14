@@ -1,5 +1,7 @@
 # Sales Scripts — mẫu tin chốt đơn
 
+*Kịch bản FAQ + chatbot chuẩn repo: `sales_script.md` (đồng bộ heading với `data/faq/cau-hoi-thuong-gap.md` ##1–##10). File này giữ mẫu Hot / Warm / Cold; khi trang đổi chính sách (Zoom 800k/1500k tạm không nhận, lộ lá số qua **mua sách**) — đối chiếu `data/products/02-bat-tu-tu-van.md` và trang [battu](https://www.thuanthienkinhdich.com/battu) trước khi chốt đơn.*
+
 *Nguồn giọng: brand voice Thuận Thiên (chân thành, thực tế, có ví dụ; tránh sao rỗng). **Phí bát tự (1 lá số, gói trao đổi có phí): 800.000đ** — cố định, không tùy tâm. Chi tiết đăng ký, form và lưu ý vận hành lấy từ trang chính thức: [thuanthienkinhdich.com/battu](https://www.thuanthienkinhdich.com/battu). (Trang web có thể cập nhật thông báo theo từng giai đoạn; khi chốt đơn nên đối chiếu bản mới nhất trên URL đó.)*
 
 **Ghi nhanh từ trang bát tự (để nhắn khách cho đúng):**
